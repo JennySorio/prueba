@@ -61,9 +61,5 @@ for ( j=1 ; j>=10 ; j++)
     "age" : 25
  }
  ```
-# Footnote
-This is a simple footenote, [^1]
-[^1]: this is the first footenote
-
 # Blockquote
-> blockquote
+> Knowledge is a non value unless you put it on  practice.
