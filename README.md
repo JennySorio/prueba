@@ -63,3 +63,12 @@ for ( j=1 ; j>=10 ; j++)
  ```
 # Blockquote
 > Knowledge is a non value unless you put it on  practice. 
+
+# Codes
+The following lines are codes.
+```
+n = 25 
+m = 40
+d = n + m
+Then d = 65
+```
