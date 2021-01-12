@@ -54,5 +54,5 @@ for ( j=1 ; j>=10 ; j++)
  printf ("This is the line number %d\n", j) ;
 ```
 
-# Latex/Maths
-$$ \int f(x)dx $$
+# Blockquote
+> blockquote
