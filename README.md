@@ -44,5 +44,13 @@ lista = [2, 3, 10, 20, 50]
 for i in range(lista):
     print(lista[i])
 ```
+# C Langage
+```c
+#include <stdio.h>
+
+int j ;
+for ( j=1 ; j>=10 ; j++)
+ printf ("This is the line number %d\n", j) ;
+```
 
 # Latex/Maths
