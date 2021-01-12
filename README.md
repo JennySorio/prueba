@@ -63,6 +63,7 @@ for ( j=1 ; j>=10 ; j++)
  ```
 # Footnote
 This is a simple footenote, [^1]
+[^1]: this is the first footenote
 
 # Blockquote
 > blockquote
