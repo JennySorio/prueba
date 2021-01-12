@@ -54,3 +54,4 @@ for ( j=1 ; j>=10 ; j++)
 ```
 
 # Latex/Maths
+$\int_{j=1}^{\infty} f(x)dx$
