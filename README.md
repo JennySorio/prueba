@@ -53,6 +53,16 @@ int j ;
 for ( j=1 ; j>=10 ; j++)
  printf ("This is the line number %d\n", j) ;
 ```
+# Json
+```json
+{
+    "First name" : "Wolferine", 
+    "Last name" : "Dont know",
+    "age" : 25
+ }
+ ```
+# Footnote
+[^1]: footnote
 
 # Blockquote
 > blockquote
