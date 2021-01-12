@@ -72,7 +72,3 @@ m = 40
 d = n + m
 Then d = 65
 ```
-# Button
-[button url="http://www.google.com"]
-
-<button name="button" onclick="http://www.google.com">Click me</button>
