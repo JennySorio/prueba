@@ -5,8 +5,10 @@ The intoduction goes here.
 **bold** or __bold__
 
 *Italic* or _italic_
+
 ***bold and italic***
 
+`emphasis`
 
 # Links and Images
 ## Links
