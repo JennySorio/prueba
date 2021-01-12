@@ -56,13 +56,13 @@ for ( j=1 ; j>=10 ; j++)
 # Json
 ```json
 {
-    "First name" : "Wolferine", 
-    "Last name" : "Dont know",
+    "FirstName" : "Wolferine", 
+    "LastName" : "Dont know",
     "age" : 25
  }
  ```
 # Footnote
-[^1]: footnote
+This is a simple footenote, [^1]
 
 # Blockquote
 > blockquote
