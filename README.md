@@ -4,7 +4,7 @@ The intoduction goes here.
 # Fonts
 **bold** or __bold__
 
-ksdjskdjskdjsk
+*Italic* or _italic_
 
 
 # Links and Images
