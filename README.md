@@ -38,4 +38,11 @@ or
 |---|---|---|
 |1  |2  |3  |
 
+# Python
+```python
+lista = [2, 3, 10, 20, 50]
+for i in range(lista):
+    print(lista[i])
+```
+
 # Latex/Maths
