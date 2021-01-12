@@ -34,5 +34,8 @@ or
 3. Item 3
 
 # Tables
+| A | B | C |
+|---|---|---|
+|1  |2  |3  |
 
 # Latex/Maths
